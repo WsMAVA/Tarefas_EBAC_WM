@@ -2,8 +2,6 @@ package br.com.wsilva.TarefaMod11;
 
 public class Pessoa {
     String nome;
-    private String mulheres;
-    private String homens;
     String sexo;
 
     Pessoa (String nome, String sexo){
